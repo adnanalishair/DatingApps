@@ -1,0 +1,9 @@
+https://localhost:5001;
+these Are the changes in launch setting.json
+
+
+...
+EntityFrameWork Commands 
+dotnet ef migrations add initialcreate // ForCreate
+
+ef migrations remove // For Remove
