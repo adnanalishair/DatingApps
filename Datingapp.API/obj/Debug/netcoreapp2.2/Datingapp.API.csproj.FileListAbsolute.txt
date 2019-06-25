@@ -1,0 +1,14 @@
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\bin\Debug\netcoreapp2.2\Datingapp.API.deps.json
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\bin\Debug\netcoreapp2.2\Datingapp.API.runtimeconfig.json
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\bin\Debug\netcoreapp2.2\Datingapp.API.runtimeconfig.dev.json
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\bin\Debug\netcoreapp2.2\Datingapp.API.dll
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\bin\Debug\netcoreapp2.2\Datingapp.API.pdb
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.csprojAssemblyReference.cache
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.csproj.CoreCompileInputs.cache
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.RazorAssemblyInfo.cache
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.RazorAssemblyInfo.cs
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.AssemblyInfoInputs.cache
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.AssemblyInfo.cs
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.RazorTargetAssemblyInfo.cache
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.dll
+C:\Users\MindX\Desktop\WebApiCmd\Datingapp.API\obj\Debug\netcoreapp2.2\Datingapp.API.pdb
